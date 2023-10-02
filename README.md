@@ -11,13 +11,13 @@ The website will offer essential features, including account creation, login/log
 
 ## Getting started
 
-# Donations and Account Creation (Account Needed)
+### Donations and Account Creation (Account Needed)
 
 create a member/user account (only for donations)
 view donations (any data range)
 get donation information needed for tax returns
 
-# Regular website functionalilty (No Account Needed)
+### Regular website functionalilty (No Account Needed)
 
 view live sermons
 view announcements
