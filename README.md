@@ -25,14 +25,14 @@ The website will offer essential features, including account creation, login/log
 
 ## Built With
 
-* [Node JS]() - Server Enviroment
-* [React JS]() - FrontEnd
-* [Express JS]() - BackEnd
-* [Postgres]() - DataBase
-* [Webstorm]() - JetBrains JavaScript IDE
+* [Node JS](https://nodejs.org/en) - Server Enviroment
+* [React JS](https://react.dev/)- FrontEnd
+* [Express JS](https://expressjs.com/) - BackEnd
+* [Postgres](https://www.postgresql.org/) - DataBase
+* [Webstorm](https://www.jetbrains.com/webstorm/) - JetBrains JavaScript IDE
 
 
-# Youtube Video of Website Working
+# Youtube Video of Website Working: Later, no link now
 * [Youtube Link](linkhere) - Video
 
 ## Authors
