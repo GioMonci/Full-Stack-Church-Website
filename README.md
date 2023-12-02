@@ -1,27 +1,8 @@
 # Full-Stack-Church-Website
 
-This GitHub repository offers a PERN stack-based template for church websites. 
-It provides essential features like user account management, login/logout functionality, donation tracking, and live sermon streaming. 
-Use it as a foundation to streamline your church's web presence.
-
-## What We do
-
-This website will serve as a template for others looking to create a church website using the PERN stack.
-The website will offer essential features, including account creation, login/logout functionality, donation tracking, and live sermon streaming, among others.
-
-## Getting started
-
-### Donations and Account Creation (Account Needed)
-
 - create a member/user account (only for donations)
 - view donations (any data range)
 - get donation information needed for tax returns
-
- ### Regular website functionalilty (No Account Needed)
-
-- view live sermons
-- view announcements
-- get in contact with church administrators
 
 ## Built With
 
@@ -29,11 +10,7 @@ The website will offer essential features, including account creation, login/log
 * [React JS](https://react.dev/)- FrontEnd
 * [Express JS](https://expressjs.com/) - BackEnd
 * [Postgres](https://www.postgresql.org/) - DataBase
-* [Webstorm](https://www.jetbrains.com/webstorm/) - JetBrains JavaScript IDE
-
-
-# Youtube Video of Website Working: Later, no link now
-* [Youtube Link](linkhere) - Video
+* [Webstorm](https://www.jetbrains.com/webstorm/) - JetBrains IDE
 
 ## Authors
 
